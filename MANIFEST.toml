@@ -1,0 +1,9 @@
+uuid = "699240e5-62cf-4f78-9eb9-461235f48a13"
+name = "Cover Art From Hidden Tags"
+description = "Use MusicBrainz identifiers hidden by Keep Only Tags to retrieve cover art without restoring file tags."
+api = ["3.0"]
+version = "1.1.0"
+authors = ["Borunzio"]
+license = "MIT"
+categories = ["coverart"]
+long_description = "Cover Art From Hidden Tags 1.1.0 by Borunzio. Adds two alternative CAA providers for Picard 3.0.2. Enable Cover Art From Hidden Tags: Release and Cover Art From Hidden Tags: Release Group in Cover Art settings, and disable the corresponding built-in CAA providers. Uses hidden Keep Only Tags identifiers in a private metadata copy; does not add identifiers to file tags. Reuses the built-in Cover Art Archive settings."
