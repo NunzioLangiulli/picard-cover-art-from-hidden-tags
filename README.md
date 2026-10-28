@@ -1,4 +1,4 @@
-# Cover Art From Hidden Tags
+# Retrieve Cover Art From Hidden Tags for MusicBrainz Picard
 
 **Version:** 1.1.0 · **Author:** Borunzio · **Target:** MusicBrainz Picard 3.0.2
 
